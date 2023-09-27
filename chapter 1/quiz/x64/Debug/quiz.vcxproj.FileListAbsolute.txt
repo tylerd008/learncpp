@@ -1,1 +1,0 @@
-B:\code\cpp\learncpp\chapter 1\quiz\x64\Debug\quiz.exe
